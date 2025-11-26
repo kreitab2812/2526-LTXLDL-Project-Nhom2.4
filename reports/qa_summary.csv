@@ -1,0 +1,5 @@
+Rule,Description,Total_Errors,Error_Rate (%),Action
+Check Date Format,Kiểm tra định dạng ngày tháng (YYYY-MM-DD HH:MM),21,0.0021,Loại bỏ dòng lỗi (Drop)
+Check Missing Location,Kiểm tra dòng thiếu thông tin vị trí,0,0.0,Loại bỏ dòng lỗi (Drop)
+Check Missing Text,Kiểm tra dòng không có nội dung blog,170,0.0166,Điền rỗng hoặc gắn cờ
+Check Duplicates,Kiểm tra trùng lặp ID bài viết,949149,92.774,Giữ lại (Feature của dữ liệu)
