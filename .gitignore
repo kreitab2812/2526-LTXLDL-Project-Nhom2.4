@@ -1,0 +1,15 @@
+# Python & Venv
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Dữ liệu (Tuyệt đối không up lên Git)
+raw/*
+processed/*
+!raw/.gitkeep
+!processed/.gitkeep
+
+# File hệ thống
+.DS_Store
+.vscode/
