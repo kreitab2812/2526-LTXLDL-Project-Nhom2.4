@@ -8,8 +8,8 @@ Dự án phân tích dữ liệu lớn nhằm truy vết dịch bệnh tại th�
 | STT | Họ và tên | Vai trò |
 |-----|-----------|---------|
 | 1 | **Đinh Mạnh Cường** | Coding, Git Manager |
-| 2 | **Trịnh Minh Đức** | Data Cleaning, QA Report |
-| 3 | **Dương Đức Minh** | Visualization, Report |
+| 2 | **Trịnh Minh Đức** | Coding, Data Cleaning, QA Report |
+| 3 | **Dương Đức Minh** | Coding, Visualization, Report |
 
 **Phạm vi dữ liệu:** 12/05/2011 - 15/05/2011
 
