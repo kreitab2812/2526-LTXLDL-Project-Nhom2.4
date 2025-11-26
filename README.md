@@ -7,7 +7,7 @@ Dự án phân tích dữ liệu lớn nhằm truy vết dịch bệnh tại th�
 ## 👥 Thành viên Nhóm 2.4
 | STT | Họ và tên | Vai trò |
 |-----|-----------|---------|
-| 1 | **Đinh Mạnh Cường** | Nhóm trưởng, Coding, Git Manager |
+| 1 | **Đinh Mạnh Cường** | Coding, Git Manager |
 | 2 | **Trịnh Minh Đức** | Data Cleaning, QA Report |
 | 3 | **Dương Đức Minh** | Visualization, Report |
 
@@ -80,6 +80,3 @@ source venv/bin/activate  # Trên Windows: venv\Scripts\activate
 
 # 3. Cài đặt thư viện
 pip install -r requirements.txt
-
-# (Nâng cao) Vẽ WordCloud so sánh từng khu vực
-python src/7_visualize_regional_wordcloud.py
